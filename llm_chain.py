@@ -1,7 +1,8 @@
 import os
 from dotenv import load_dotenv
 from langchain_groq import ChatGroq
-from langchain.prompts import PromptTemplate
+from langchain import PromptTemplate
+
 
 load_dotenv()   # 👈 THIS IS REQUIRED
 
