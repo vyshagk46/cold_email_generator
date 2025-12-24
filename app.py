@@ -53,8 +53,7 @@ if st.button("Generate Cold Email"):
     chain = ColdEmailChain()
     email = chain.generate(job_text[:2000], projects)
 
-    st.subheader("🔍 Extracted Skills")
-    st.write(skills)
+    
 
     st.subheader("✉️ Generated Cold Email")
     st.text_area("", email, height=300)

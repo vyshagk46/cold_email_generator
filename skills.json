@@ -2,19 +2,80 @@
   "languages": [
     "Python", "Java", "JavaScript", "C", "C++", "C#", "Go", "Rust", "PHP"
   ],
+
   "frameworks": [
-    "Django", "Flask", "FastAPI", "Spring Boot", "React", "Angular", "Vue"
+    "Django", "Flask", "FastAPI", "Spring Boot",
+    "React", "Angular", "Vue"
   ],
+
   "databases": [
     "MySQL", "PostgreSQL", "MongoDB", "SQLite", "Redis"
   ],
+
   "cloud": [
     "AWS", "Azure", "GCP", "Docker", "Kubernetes"
   ],
+
   "ai_ml": [
-    "Machine Learning", "Deep Learning", "NLP", "LLM", "LangChain"
+    "Machine Learning", "Deep Learning", "NLP",
+    "LLM", "LangChain", "Generative AI", "Prompt Engineering"
   ],
+
   "tools": [
-    "Git", "GitHub", "Linux", "Jira", "Postman"
+    "Git", "GitHub", "Linux", "Jira",
+    "Postman", "Excel", "Power BI", "Tableau"
+  ],
+
+  "mba_hr": [
+    "Human Resource Management",
+    "Talent Acquisition",
+    "Recruitment",
+    "Employee Engagement",
+    "Performance Management",
+    "HR Analytics",
+    "Payroll Management",
+    "Labor Laws",
+    "Compliance",
+    "Onboarding",
+    "Training and Development",
+    "Conflict Management",
+    "Compensation and Benefits",
+    "Workforce Planning"
+  ],
+
+  "mba_finance": [
+    "Financial Analysis",
+    "Financial Modeling",
+    "Corporate Finance",
+    "Investment Analysis",
+    "Risk Management",
+    "Portfolio Management",
+    "Budgeting",
+    "Forecasting",
+    "Cost Accounting",
+    "Management Accounting",
+    "Valuation",
+    "Mergers and Acquisitions",
+    "Equity Research",
+    "Financial Reporting",
+    "Taxation"
+  ],
+
+  "mba_sales": [
+    "Sales Management",
+    "Business Development",
+    "Lead Generation",
+    "Client Relationship Management",
+    "CRM",
+    "Negotiation",
+    "B2B Sales",
+    "B2C Sales",
+    "Market Research",
+    "Sales Forecasting",
+    "Key Account Management",
+    "Customer Retention",
+    "Digital Marketing",
+    "Sales Strategy",
+    "Pipeline Management"
   ]
 }
