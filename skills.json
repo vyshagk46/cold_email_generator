@@ -1,0 +1,20 @@
+{
+  "languages": [
+    "Python", "Java", "JavaScript", "C", "C++", "C#", "Go", "Rust", "PHP"
+  ],
+  "frameworks": [
+    "Django", "Flask", "FastAPI", "Spring Boot", "React", "Angular", "Vue"
+  ],
+  "databases": [
+    "MySQL", "PostgreSQL", "MongoDB", "SQLite", "Redis"
+  ],
+  "cloud": [
+    "AWS", "Azure", "GCP", "Docker", "Kubernetes"
+  ],
+  "ai_ml": [
+    "Machine Learning", "Deep Learning", "NLP", "LLM", "LangChain"
+  ],
+  "tools": [
+    "Git", "GitHub", "Linux", "Jira", "Postman"
+  ]
+}
